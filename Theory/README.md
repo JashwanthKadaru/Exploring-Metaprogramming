@@ -62,6 +62,7 @@ These concepts collectively enable Ruby programmers to write concise and flexibl
 1. Blocks
    - Closures
    - `yield`
+   - `block_given?`
    - `Proc` objects
    - Lambda functions
 2. Evals
