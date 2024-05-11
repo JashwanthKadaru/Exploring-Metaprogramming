@@ -2,9 +2,9 @@
 
 ## Team Members
 
-- Jashwanth Kadaru - IMT2021095 (<a href="https://github.com/JashwanthKadaru"> &nbsp;JashwanthKadaru&nbsp; </a>)
-- Danesh Manoj Toshniwal - IMT2021094 (<a href="https://github.com/daneshtoshniwal"> &nbsp;daneshtoshniwal&nbsp; </a>)
-- Neil Jeetendra Handa - IMT2021037 (<a href="https://github.com/neilhanda/"> &nbsp;neilhanda&nbsp; </a>)
+- Jashwanth Kadaru - IMT2021095 (<a href="https://github.com/JashwanthKadaru">JashwanthKadaru</a>)
+- Danesh Manoj Toshniwal - IMT2021094 (<a href="https://github.com/daneshtoshniwal">daneshtoshniwal</a>)
+- Neil Jeetendra Handa - IMT2021037 (<a href="https://github.com/neilhanda/">neilhanda</a>)
 
 ## Table of Contents
 
